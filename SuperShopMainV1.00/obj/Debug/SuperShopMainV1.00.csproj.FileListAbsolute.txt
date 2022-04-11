@@ -1,0 +1,15 @@
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe.config
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.pdb
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.csprojResolveAssemblyReference.cache
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.AdminDashboard.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.adminReport.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.ClubCustomerDashborad.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.DeleteProductsFromInventory.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.LoagingScreenFlashCard.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Login.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Properties.Resources.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.SalesmanDashboar.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.csproj.GenerateResource.Cache
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.exe
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.pdb

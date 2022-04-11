@@ -1,0 +1,55 @@
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe.config
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.exe
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.pdb
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.pdb
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00_BETA.csprojResolveAssemblyReference.cache
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.AdminDashboard.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.adminReport.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.ClubCustomerDashborad.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.DeleteProductsFromInventory.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.LoagingScreenFlashCard.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Login.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Properties.Resources.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.SalesmanDashboar.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00_BETA.csproj.GenerateResource.Cache
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.BillDetailsDashboard.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.memconfirmation.resources
+H:\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Confirmpay.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe.config
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.exe
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.pdb
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.pdb
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00_BETA.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.memconfirmation.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Confirmpay.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.BillDetailsDashboard.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.AdminDashboard.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.adminReport.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.ClubCustomerDashborad.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.DeleteProductsFromInventory.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.LoagingScreenFlashCard.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Login.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Properties.Resources.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.SalesmanDashboar.resources
+C:\Users\USER\Desktop\C sharp project\SuperShopV1.00-BETA\SuperShopMainV1.00_BETA\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00_BETA.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe.config
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.exe
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\bin\Debug\SuperShopMainV1.00.pdb
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00_BETA.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.memconfirmation.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Confirmpay.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.BillDetailsDashboard.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.AdminDashboard.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.adminReport.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.ClubCustomerDashborad.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.DeleteProductsFromInventory.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.LoagingScreenFlashCard.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Login.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.Properties.Resources.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1._00.SalesmanDashboar.resources
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00_BETA.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00_BETA.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.exe
+C:\Users\Hp\Desktop\12\SuperShopMainV1.00\obj\Debug\SuperShopMainV1.00.pdb
